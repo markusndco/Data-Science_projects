@@ -1,5 +1,5 @@
 
-# 🧠 Data Science Projects
+# 🧠 Data Science Project
 
 A collection of real-world data science case studies using **statistical modeling** and **causal inference** techniques. These projects solve high-impact problems across domains like **healthcare**, **economics**, and **public policy** using methods such as:
 
