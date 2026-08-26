@@ -1,0 +1,2 @@
+total_fact_rows,missing_patient_id_rows,missing_infusion_date_rows,missing_location_rows,missing_drug_rows,missing_piv_attempt_rows,negative_piv_attempt_rows,complete_without_meds_administered_rows,meds_administered_without_complete_status_rows
+3780,0.0,0.0,0.0,0.0,2435.0,0.0,25.0,2.0
