@@ -8,6 +8,7 @@ A collection of real-world data science case studies using **statistical modelin
 - Regression Discontinuity Design (RDD)
 - Causal Analysis
 - Time Series Forecasting
+- Operational Analytics
 
 Each folder contains complete R scripts, supporting documentation, and data to ensure **end-to-end reproducibility**.
 
@@ -24,6 +25,7 @@ Each folder contains complete R scripts, supporting documentation, and data to e
 | `difference-in-difference-bank-policy` | Examines bank regulation policy impact using DiD |
 | `difference-in-difference` | Template project for generic DiD implementation |
 | `time-series-analysis-wheat-prices-india` | Forecasts wheat prices using historical time series data |
+| `Healthcare-Infusion-Analytics-DuckDB` | End-to-end healthcare infusion analytics pipeline using Python, SQL, Pandas, and DuckDB |
 
 ---
 
@@ -53,6 +55,7 @@ By exploring these projects, you'll learn how to:
 - Conduct policy evaluation using observational data
 - Handle time series data and make informed forecasts
 - Apply statistical rigor to real-world datasets
+- Translate analytical outputs into business and operational insights
 
 ---
 
@@ -63,6 +66,7 @@ By exploring these projects, you'll learn how to:
 - Financial Regulation & Banking
 - Agricultural Economics
 - Government Policy Evaluation
+- Operational Analytics
 
 ---
 
